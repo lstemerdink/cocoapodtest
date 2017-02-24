@@ -9,17 +9,17 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-CocoaPodTest-CocoaPodTestTests.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-CocoaPodTest-CocoaPodTestUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>Pods-CocoaPodTest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-CocoaPodTestTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
